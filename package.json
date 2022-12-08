@@ -10,7 +10,6 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
-    "license": "Self-Learning",
 	},
 	"main": "server.js",
 	"scripts": {
@@ -22,5 +21,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+    "license": "Self-Learning",
 	}
 }
